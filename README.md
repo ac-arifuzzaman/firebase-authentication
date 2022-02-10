@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+*********************
+
+On this project I just applied firebse authentication system. Sign up by using Google, Facebook, Github and also use Email for registration and veryfied system for register as new user. 
+Use mui.com for header section. Nothing will change on this section without diclaring a state and destructure the props and try to use it.
+
+**********************
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
